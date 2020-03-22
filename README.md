@@ -1,2 +1,7 @@
-# helloworld1
-just another repository
+public class Hello
+{
+ public static void main(String[] args)
+  {
+   System.out.println("hello world");
+   }
+ }
